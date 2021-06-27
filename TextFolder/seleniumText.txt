@@ -1,0 +1,3 @@
+Java is a high-level 
+SELENIUM is a free (open-source)
+automated testing framework
